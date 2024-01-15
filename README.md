@@ -57,3 +57,5 @@ When we not write any type, typscript by default detect the type based on the as
 let firstName = "John Doe"; //Implicit type
 ```
 
+
+# Cooking......
